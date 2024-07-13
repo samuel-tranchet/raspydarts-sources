@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: pyDarts\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Olivier BILHAUT <bilhautolivier@neuf.fr>\n"
+"Language-Team: @Andreas\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid "game-list"
+msgstr "Waehle dein Spiel"
+
+msgid "game-options"
+msgstr "Spieloptionen"
+
+msgid "game-options-binary"
+msgstr "Benutze Fx Tasten um Einstellungen zu aendern."
+
+msgid "players-names"
+msgstr "Bitte gebe den Spielern Namen"
+
+msgid "players-names-subtitle"
+msgstr "Druecke + fuer hinzuzufuegen, - zum entfernen, <Tab> für zufaellig"
+
+msgid "press-player"
+msgstr "Bitte Spieler Taste druecken..."
+
+msgid "press-player-remote"
+msgstr "Warte auf entfernte Spieler..."
+
+msgid "release-darts"
+msgstr "Entferne Darts"
+
+msgid "game-stats"
+msgstr "Spiel Statistik"
+
+msgid "master-client-title"
+msgstr "Bereit zum Spielen?"
+
+msgid "master-client-empty"
+msgstr "Master Server hat aktuell kein Spiel"
+
+msgid "master-client-no-connection"
+msgstr "Kann nicht mit Master Server verbinden"
+
+msgid "master-client-connecting"
+msgstr "Verbinde mit Master Server... Bitte warten."
+
+msgid "game-client-connecting"
+msgstr "Verbinde mit Spiel Server... Bitte warten..."
+
+msgid "game-client-no-connection"
+msgstr "Kann nicht mit Spiel Server verbinden"
+
+msgid "master-client-refresh"
+msgstr "Leertaste zum aktualisieren"
+
+msgid "master-player-has-left"
+msgstr ""
+"Der Master Spieler hat das Spiel verlassen. Spiel abgebrochen. Drücke Enter"
+
+msgid "getting-info-from-server"
+msgstr "Empfange Daten vom Server. Bitte einen Moment Geduld"
+
+msgid "get-ready"
+msgstr "Mach dich bereit!"
+
+msgid "version-mismatch"
+msgstr ""
+"Deine Version ist nicht mit der Server Version kompatibel. Bitte "
+"aktualisieren!"
+
+msgid "game-no-desc"
+msgstr "Keine Beschreibung vorhanden"
+
+msgid "game-type"
+msgstr "Willkommen! Bitte Spielart wählen"
+
+msgid "game-type-local"
+msgstr "Lokales Spiel"
+
+msgid "game-type-master"
+msgstr "Netzwerk Spiel beitreten"
+
+msgid "game-type-manual"
+msgstr "Netzwerk Spiel erstellen (oder manuell beitreten)"
+
+msgid "net-options"
+msgstr "Bitte Netzwerk Einstellungen setzen"
+
+msgid "net-options-netgamename"
+msgstr "Name des Spiels"
+
+msgid "net-options-servername"
+msgstr "Name des Servers oder IP"
+
+msgid "net-options-serveralias"
+msgstr "Spiel Server IP oder DNS Alias (nur für Spielerstellung erforderlich)"
+
+msgid "net-options-serverport"
+msgstr "Spiel Server Port"
+
+msgid "players-ready-masterplayer"
+msgstr "Spieler bereit... Druecke Enter um Spiel zu starten!"
+
+msgid "players-ready-slaveplayer"
+msgstr "Spieler bereit... Warte auf Master Spieler"
+
+msgid "net-client-refresh-players"
+msgstr "aktualisiere Spielerliste vom Server..."
+
+msgid "serial-issue-1"
+msgstr "Serielle Verbindung kann nicht hergestellt werden"
+
+msgid "serial-issue-2"
+msgstr "Das Spiel benoetigt eine kompatible USB-Dart Scheibe"
+
+msgid "serial-issue-3"
+msgstr "Bitte folge der Anleitung auf der offiziellen Webseite"
+
+msgid "serial-issue-4"
+msgstr "Auf Wiedersehen Amigo!"
+
+msgid "last-round-reached"
+msgstr "Letzte Runde erreicht..."
+
+msgid "hi-score"
+msgstr "Hi-Score"
+
+msgid "remaining-darts"
+msgstr "Darts"
+
+msgid "round"
+msgstr "Runde"
+
+msgid "over"
+msgstr "Ende"
+
+msgid "exit"
+msgstr "Ausgang"
+
+msgid "start-again"
+msgstr "Wiederholen"
+
+msgid "Player"
+msgstr "Spieler"
+
+msgid "select-port"
+msgstr "Mehrere serielle Schnittstellen wurden gefunden"
+
+msgid "select-port-subtxt"
+msgstr "Port mit Fx-Tasten wählen"
+
+msgid "board-calibration"
+msgstr "Spielfeld-Kalibrierung"
+
+msgid "press-on-parts"
+msgstr "Abschnitte drücken"
+
+msgid "net-client-randomizing"
+msgstr "Zufaellig !"
+
+msgid "left"
+msgstr "Übrig"
+
+msgid "press-on"
+msgstr "Fortsetzen"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Next"
+msgstr "Folgende"
+
+msgid "Previous"
+msgstr "Früher"
+
+msgid "Refresh"
+msgstr "Aktualisierung"
+
+msgid "Welcome"
+msgstr "Willkommen"
+
+msgid "Autorefresh in %sec seconds"
+msgstr "Automatische aktualisierung in %(sec)s sekunden"
+
+msgid "network-error"
+msgstr "Netzwerkfehler"
+
+msgid "Game type"
+msgstr "Spiel typ"
+
+msgid "Game name"
+msgstr "Spielname"
+
+msgid "serverlist-header-STATUS"
+msgstr "Status"
+
+msgid "serverlist-header-GAMENAME"
+msgstr "Spielname"
+
+msgid "serverlist-header-PLAYERS"
+msgstr "Spieler"
+
+msgid "serverlist-header-SERVERIP"
+msgstr "Server"
+
+msgid "serverlist-header-SERVERPORT"
+msgstr "Port"
+
+msgid "serverlist-header-GAMECREATOR"
+msgstr "Schöpfer"
+
+msgid "serverlist-header-GAMETYPE"
+msgstr "Match-typ"
+
+msgid "Description-Killer"
+msgstr ""
+"Bewaffne dich und triff deine Punkte!\n"
+"dann raeume deine Gegner  aus dem Weg einen nach dem anderen!\n"
+"Hole 4 Punkte und werde zum Killer\n"
+"Dann raueme andere Spieler aus dem Weg indem du ihre Punkte triffst"
+
+msgid "Killer-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Description-Practice"
+msgstr ""
+"Trainiere dich selber und ziele auf verschiedene Zahlen\n"
+"vom Computer zufaellig gewaehlte Zahlen\n"
+"Meister Modus : ziele auf doppelt und dreifach"
+
+msgid "Practice-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Practice-master"
+msgstr "Meister Einstellungen"
+
+msgid "Description-Sample_game"
+msgstr ""
+"Basis Beispiel Spiel\n"
+"zum lernen wie man ein eigenes Spiel erstellt\n"
+"/!\\ Erfordert ein wenig Python Kenntnisse\n"
+"Schau in den Quellcode :)"
+
+msgid "Sample_game-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Description-321_Zlip"
+msgstr ""
+"Eine Art umgekehrtes 301...\n"
+"Aber mit mehr Spass :)\n"
+"Starte von 0, versuche genau 321 zu erreichen\n"
+"Wenn du die Punkte anderer Spieler erreichst\n"
+"Rutscht er zurueck auf 0!\n"
+"Meister Modus : Einen Spieler auf 0 setzen erforderlich"
+
+msgid "321_Zlip-master"
+msgstr "Meister Einstellungen"
+
+msgid "321_Zlip-advanced"
+msgstr "Advanced Einstellungen"
+
+msgid "321_Zlip-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Description-Ho_One"
+msgstr ""
+"Das bekannte 301, 501, 1001...\n"
+"Oder von wo du auch immer starten willst!\n"
+"Ein guter Start fuer das Dartspielen\n"
+"ohne verrueckte Regeln zu lernen\n"
+"Starte von gewaehlten Punkten\n"
+"Erster Spieler der genau 0 erreich gewinnt!"
+
+msgid "Ho_One-startingat"
+msgstr "Starte Spiel mit diesen Punkten"
+
+msgid "Ho_One-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Ho_One-double_in"
+msgstr "Double-In Einstellungen"
+
+msgid "Ho_One-double_out"
+msgstr "Double-Out Einstellungen"
+
+msgid "Ho_One-master_in"
+msgstr "Master-In Einstellungen"
+
+msgid "Ho_One-master_out"
+msgstr "Master-Out Einstellungen"
+
+msgid "Description-Cricket"
+msgstr ""
+"Das bekannte Cricket!\n"
+"Spiel es einfach, oder mach es verrueckt!\n"
+"Triff alle erforderlichen Nummern mindestens 3 mal und gewinne!\n"
+"Verrueckte Einstellungen : Die Nummern wechseln jede Runde wenn noch "
+"offen.\n"
+"Halsabschneider : Extra Punkte gehen zu den Gegnern\n"
+"DrinkScore : wenn ein Spieler diese Punkte erreicht muss er ein\n"
+"             Getraenk bezahlen!"
+
+msgid "Cricket-optioncutthroat"
+msgstr "Halsabschneider Einstellungen"
+
+msgid "Cricket-drinkscore"
+msgstr "Getraenk ausgeben bei diesen Punkten!"
+
+msgid "Cricket-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Cricket-optioncrazy"
+msgstr "Verrueckte Cricket Einstellungen!"
+
+msgid "Description-Kapital"
+msgstr ""
+"AKA Burma Road\n"
+"Triff mindestens eine vorgegeben Nummer pro Runde\n"
+"Oder deine Punkte werden durch 2 geteilt\n"
+"Wird mit 15 Runden gespielt . Hoechste Punktzahl gewinnt\n"
+"Einiger Herausforderungen sind wirklich hart, wie :\n"
+"doppelte, dreifach, eine jeder Farbe, Folge..."
+
+msgid "Description-Kinito"
+msgstr ""
+"Starte von 0 und erreiche 210\n"
+"Mache nie weniger oder gleich viel Punkte wie zuvor!\n"
+"Lieber vorher beenden als die gesamte Runde zu verlieren :)\n"
+"Wenn du dreifach 7 triffst bekommst du zufaellig Punkte\n"
+"Wenn du diese trffst werden due Punkte deiner Gegner durch 2 geteilt"
+
+msgid "Kinito-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Kinito-master"
+msgstr "Meister Einstellungen"
+
+msgid "Kinito-kinito"
+msgstr "Kinito score"
+
+msgid "Kinito-winscore"
+msgstr "Gewinn Punkte"
+
+msgid "Description-Shanghai"
+msgstr ""
+"Eine Version des bekannten Spieles Uhr\n"
+"Erste Runde, spiel 1, zweite, spiel 2, etc.\n"
+"Nach 7 Runden, die hoechste Punktzahl gewinnt"
+
+msgid "Shanghai-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Description-Football"
+msgstr ""
+"Der Klassiker\n"
+"Triff Bull's Eye um den Ball zu bekommen\n"
+"Dann triff doppelt und dreifach um Tore zu erzielen\n"
+"Wer zuerst 3 Tore hat gewinnt!"
+
+msgid "Football-max_round"
+msgstr "Gesamtrunden"
+
+msgid "Football-master"
+msgstr "Meister Einstellungen"
+
+msgid "Football-goals"
+msgstr "Anzahl von Toren um zu gewinnen"
+
+msgid "Description-Bermuda_Triangle"
+msgstr ""
+"Don't get lost in the Bermuda Triangle!\n"
+"Start at 12 and play until Bullseyes\n"
+"Score as many points on shown number in 3 darts\n"
+"If no mark on shown number, score is cut in half!\n"
+"Hit any double or triple when shown\n"
+"High score wins!"
+
+msgid "Bermuda_Triangle-Double_bull"
+msgstr "Double Bullseye"
+
+msgid "Description-By_Fives"
+msgstr ""
+"Make your round score divisible by 5!\n"
+"If your score is not divisible by 5, no point is scored\n"
+"Play to designated score!"
+
+msgid "By_Fives-startingat"
+msgstr "Play to?"
+
+msgid "Description-Scram_Cricket"
+msgstr ""
+"2 or 4 players only!\n"
+"First player has all numbers open and\n"
+"shoots to get the highest score possible.\n"
+"Second player tries to close all numbers\n"
+"as fast as possible.\n"
+"Once complete, players switch and\n"
+"highest score wins!"
+
+msgid "Scram_Cricket-optioncrazy"
+msgstr "Crazy mode"
+
+msgid "Scram_Cricket-drinkscore"
+msgstr "Drink at this score (cutthroat only)"
+
+msgid "Scram_Cricket-Teaming"
+msgstr "Team Mode (4 players only)"
+
+msgid "Scram_Cricket-optionteamscore"
+msgstr "Mark teammate with same marks"
+
+msgid "Cricket-optionteamscore"
+msgstr "Mark teammate with same marks"
+
+msgid "Scram_Cricket-optioncutthroat"
+msgstr "Cutthroat Mode"
+
+msgid "Scram_Cricket-optionscram"
+msgstr "Scram Mode"
+
+msgid "Ho_One-league"
+msgstr "League Play! (Enables freeze mode and handicap, 4 players only!)"
+
+msgid "Cricket-optionhandicap"
+msgstr "Handicap Option!"
+
+msgid "this-game-stats"
+msgstr "Hi Score for this game"
+
+msgid "local-db-stats"
+msgstr "Your position in global Hi-Score table"
+
+msgid "ranking"
+msgstr "Ranking"
+
+msgid "Points Per Dart"
+msgstr "Points Per Dart"
+
+msgid "Points Per Round"
+msgstr "Points Per Round"
+
+msgid "Score"
+msgstr "Score"
+
+msgid "Hits per round"
+msgstr "Hits per round"
+
+msgid "GiveOut"
+msgstr "Give Out"
+
+msgid "Reached Score"
+msgstr "Reached Score"
+
+msgid "Hits"
+msgstr "Hits"

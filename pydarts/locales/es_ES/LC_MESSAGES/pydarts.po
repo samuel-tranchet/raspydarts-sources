@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: pyDarts\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: @Diego2 <qwertyfishrobot@gmail.com>\n"
+"Language-Team: @Diego2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid "game-list"
+msgstr "Por favor seleccione un juego de la lista"
+
+msgid "game-options"
+msgstr "Opciones de Juego"
+
+msgid "game-options-binary"
+msgstr ""
+"Utilice las teclas de funciones especiales Fx/Fn para modificar las opciones."
+
+msgid "players-names"
+msgstr "Por favor escriba el nombre de los juegadores:"
+
+msgid "players-names-subtitle"
+msgstr "Presione tecla + para añadir, - para eliminar, <Tab> aleatorio."
+
+msgid "press-player"
+msgstr "Por favor pulse boton de siguiente jugador..."
+
+msgid "press-player-remote"
+msgstr "Esperando a tu amigo..."
+
+msgid "release-darts"
+msgstr "Retire los dardos"
+
+msgid "game-stats"
+msgstr "Estadisticas de Juego"
+
+msgid "master-client-title"
+msgstr "¿Preparado para patear culos?"
+
+msgid "master-client-empty"
+msgstr "No hay ninguna partida disponible en el Servidor Maestro"
+
+msgid "master-client-no-connection"
+msgstr "Imposible conectar al Servidor Maestro"
+
+msgid "master-client-connecting"
+msgstr "Estamos conectando con el Servidor Maestro... Por favor sea paciente."
+
+msgid "game-client-connecting"
+msgstr "Conectando al servidor del juego... Espere unos segundos..."
+
+msgid "game-client-no-connection"
+msgstr "¡¡No se pudo conectar al juego!!"
+
+msgid "master-client-refresh"
+msgstr "Presione la barra espaciadora para refrescar"
+
+msgid "master-player-has-left"
+msgstr ""
+"El jugador que mantenia la partida ha abandonado el juego.Partida "
+"finalizada. Presione ENTER"
+
+msgid "getting-info-from-server"
+msgstr ""
+"Obteniendo informacion del servidor. Por favor, espere unos instantes..."
+
+msgid "get-ready"
+msgstr "¡Preparad@!"
+
+msgid "version-mismatch"
+msgstr ""
+"Lo sentimos, la version que estas ejecutando de pydarts no es compatible' "
+"version.¡Por favor, actualizala!"
+
+msgid "game-no-desc"
+msgstr "No hay informacion disponible"
+
+msgid "game-type"
+msgstr "¡Bienvenid@! Por favor, seleccione el tipo de juego que desee"
+
+msgid "game-type-local"
+msgstr "Juego local"
+
+msgid "game-type-master"
+msgstr "Unirse a partida online"
+
+msgid "game-type-manual"
+msgstr "Crear o conectarse manualmente a una partida online"
+
+msgid "net-options"
+msgstr "Por favor configure los datos de su conexion"
+
+msgid "net-options-netgamename"
+msgstr "Nombre de Juego"
+
+msgid "net-options-servername"
+msgstr "Nombre del Servidor del juego o Ip"
+
+msgid "net-options-serveralias"
+msgstr ""
+"Ip del Servidor del juego o direccion DNS (Solo si quieres crear una partida)"
+
+msgid "net-options-serverport"
+msgstr "Puerto del Servidor del juego"
+
+msgid "players-ready-masterplayer"
+msgstr "¡Atentos jugadores!¡Presione ENTER para comenzar!"
+
+msgid "players-ready-slaveplayer"
+msgstr "Jugadores preparados... Esperando al Jugador Maestro"
+
+msgid "net-client-refresh-players"
+msgstr "Refrescando la lista de jugadores..."
+
+msgid "net-client-randomizing"
+msgstr "¡Aleatorio!"
+
+msgid "serial-issue-1"
+msgstr "Problema al cargar la conexion de la diana"
+
+msgid "serial-issue-2"
+msgstr "Este juego necesita una diana compatible"
+
+msgid "serial-issue-3"
+msgstr "Por favor, consulte la wiki en la web oficial del proyecto"
+
+msgid "serial-issue-4"
+msgstr "¡Nos vemos!"
+
+msgid "last-round-reached"
+msgstr "Ultima ronda alcanzada!!!"
+
+msgid "hi-score"
+msgstr "Puntuaciones Maximas"
+
+msgid "remaining-darts"
+msgstr "Dardos Restantes"
+
+msgid "round"
+msgstr "Ronda"
+
+msgid "over"
+msgstr "Fin"
+
+msgid "exit"
+msgstr "Salir"
+
+msgid "start-again"
+msgstr "Empezar de nuevo"
+
+msgid "Player"
+msgstr "Jugador"
+
+msgid "select-port"
+msgstr "Se detectaron varios puertos serie"
+
+msgid "board-calibration"
+msgstr "Calibracion de la Diana"
+
+msgid "press-on-parts"
+msgstr "Presione cada porcion de la diana"
+
+msgid "left"
+msgstr "Faltan"
+
+msgid "press-on"
+msgstr "Presione"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Next"
+msgstr "Proximo"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Refresh"
+msgstr "Refrescar"
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "network-error"
+msgstr "Error de red"
+
+msgid "Game type"
+msgstr "Tipo de juego"
+
+msgid "Game name"
+msgstr "Nombre del juego"
+
+msgid "Autorefresh in %sec seconds"
+msgstr "Autorefrescar en %(sec)s segundos"
+
+msgid "select-port-subtxt"
+msgstr "Seleccione el puerto deseado con las teclas Fx"
+
+msgid "serverlist-header-STATUS"
+msgstr "Estado"
+
+msgid "serverlist-header-GAMENAME"
+msgstr "Nombre del Juego"
+
+msgid "serverlist-header-PLAYERS"
+msgstr "Jugadores"
+
+msgid "serverlist-header-SERVERIP"
+msgstr "Servidor"
+
+msgid "serverlist-header-SERVERPORT"
+msgstr "Puerto"
+
+msgid "serverlist-header-GAMECREATOR"
+msgstr "Maestro"
+
+msgid "serverlist-header-GAMETYPE"
+msgstr "Tipo de Juego"
+
+msgid "Description-Killer"
+msgstr ""
+"¡Practica tu punteria apuntando\n"
+"y ve eliminando a tus oponentes uno a uno!\n"
+"Consigue los 4 puntos y conviertete en un KILLER\n"
+"*NOTA: Elimina a tus oponentes alcanzando su puntuacion"
+
+msgid "Killer-max_round"
+msgstr "Numero de rondas"
+
+msgid "Description-Practice"
+msgstr ""
+"Practica lo que necesites\n"
+"apuntando a donde Pydarts decida aleatoriamente\n"
+"Modo Master: Apunta a dobles y triples"
+
+msgid "Practice-max_round"
+msgstr "Numero de rondas"
+
+msgid "Practice-master"
+msgstr "Opcion Master"
+
+msgid "Description-Sample_game"
+msgstr ""
+"Este juego es una prueba por si quieres\n"
+"aprender a como crear tu propio juego\n"
+"Mira el codigo fuente y no te olvides de\n"
+"compartirlo con otros usuarios en la web del proyecto\n"
+"*NOTA: Requiere conocimientos de Pyton"
+
+msgid "Sample_game-max_round"
+msgstr "Numero de rondas"
+
+msgid "Description-321_Zlip"
+msgstr ""
+"Una especie de 301 al reves...\n"
+"pero un poco mas divertido :)\n"
+"Empieza con 0 y alcanza 321 puntos antes que tus oponentes\n"
+"Si alcanzas la puntuacion de alguno de tus oponentes' score\n"
+"¡Mala suerte para ell@s! ¡Les tocara volver a empezar!\n"
+"Master: Es obligatorio en esta opcion alcanzar la\n"
+"la puntuacion de al menos un oponente"
+
+msgid "321_Zlip-master"
+msgstr "Opcion Master"
+
+msgid "321_Zlip-advanced"
+msgstr "Opcion Avanzada"
+
+msgid "321_Zlip-max_round"
+msgstr "Numero de rondas"
+
+msgid "Description-Ho_One"
+msgstr ""
+"¡El famoso 301, 501, 1001...!\n"
+"O elije la puntuacion con la que quieras empezar!\n"
+"La forma mas facil de empezar a jugar\n"
+"¡Comienza con la puntuacion elegida\n"
+"y el primer jugador en alcanzar 0 puntos, GANARA!"
+
+msgid "Ho_One-startingat"
+msgstr "Empezar con"
+
+msgid "Ho_One-max_round"
+msgstr "Numero de rondas"
+
+msgid "Ho_One-double_in"
+msgstr "Opcion Double-In"
+
+msgid "Ho_One-double_out"
+msgstr "Opcion Double-Out"
+
+msgid "Ho_One-master_in"
+msgstr "Opcion Master-In"
+
+msgid "Ho_One-master_out"
+msgstr "Opcion Master-Out"
+
+msgid "Description-Cricket"
+msgstr ""
+"El Cricket mas famoso\n"
+"¡Juega al modo simple, o a la opcion crazy!\n"
+"¡Golpea todos los numeros mostrados tres veces para ganar!\n"
+"Opcion Crazy : Los numeros cambian cada ronda.\n"
+"Cut throat : Los puntos se suman a tu oponente\n"
+"DrinkScore : Juegate una ronda\n"
+"si un jugador alcanza esta puntuacion en Cut Throat"
+
+msgid "Cricket-optioncutthroat"
+msgstr "Opcion Cut throat"
+
+msgid "Cricket-drinkscore"
+msgstr "¡Pagas una ronda si llegas a esta puntuacion!"
+
+msgid "Cricket-max_round"
+msgstr "Numero de rondas"
+
+msgid "Cricket-optioncrazy"
+msgstr "Opcion Crazy Cricket"
+
+msgid "Description-Kapital"
+msgstr ""
+"Mas conocido como Burma Road\n"
+"Debes hacer al menos una marca por ronda,\n"
+"o toda tu punuacion se vera dividida por 2.\n"
+"Juega en 15 rondas. La maxima puntuacion gana.\n"
+"Algunos de las propuestas son realmente dificiles:\n"
+"dobles, triples,uno de cada color, una secuencia...\n"
+"¡ESTE ES TU JUEGO SI TE GUSTAN LOS RETOS!!."
+
+msgid "Description-Kinito"
+msgstr ""
+"Empieza en 0 y alcanza 210\n"
+"Nunca hagas una marca menor que la anterior de la que te den\n"
+"Si marcas un T7, una puntuacion aleatoria se te asignara\n"
+"Si llegas a esta nueva puntuacion, la de tu oponente\n"
+"se vera dividida entre 2\n"
+"*NOTA: Es preferible pasar turno, que perder una ronda"
+
+msgid "Kinito-max_round"
+msgstr "Numero de rondas"
+
+msgid "Kinito-master"
+msgstr "Opcion Master"
+
+msgid "Kinito-kinito"
+msgstr "Puntuacion Kinito"
+
+msgid "Kinito-winscore"
+msgstr "Puntuacion Victoria"
+
+msgid "Description-Shanghai"
+msgstr ""
+"Una version de la famosa Ronda del Reloj\n"
+"Primera ronda, juega 1, segunda, juega 2, etc.\n"
+"Despues de 7 rondas, la maxima puntuacion gana."
+
+msgid "Shanghai-max_round"
+msgstr "Numero de rondas"
+
+msgid "Description-Football"
+msgstr ""
+"El clasico juego de futbol!\n"
+"Si haces BULL, seras el portero.\n"
+"Dale a los triples y los dobles para marcar,\n"
+"el primero en marcar 3 goles gana."
+
+msgid "Football-max_round"
+msgstr "Numero de rondas"
+
+msgid "Football-master"
+msgstr "Numero de rondas"
+
+msgid "Football-goals"
+msgstr "Numero de goles para ganar"
+
+msgid "Description-Bermuda_Triangle"
+msgstr ""
+"Don't get lost in the Bermuda Triangle!\n"
+"Start at 12 and play until Bullseyes\n"
+"Score as many points on shown number in 3 darts\n"
+"If no mark on shown number, score is cut in half!\n"
+"Hit any double or triple when shown\n"
+"High score wins!"
+
+msgid "Bermuda_Triangle-Double_bull"
+msgstr "Double Bullseye"
+
+msgid "Description-By_Fives"
+msgstr ""
+"Make your round score divisible by 5!\n"
+"If your score is not divisible by 5, no point is scored\n"
+"Play to designated score!"
+
+msgid "By_Fives-startingat"
+msgstr "Play to?"
+
+msgid "Description-Scram_Cricket"
+msgstr ""
+"2 or 4 players only!\n"
+"First player has all numbers open and\n"
+"shoots to get the highest score possible.\n"
+"Second player tries to close all numbers\n"
+"as fast as possible.\n"
+"Once complete, players switch and\n"
+"highest score wins!"
+
+msgid "Scram_Cricket-optioncrazy"
+msgstr "Crazy mode"
+
+msgid "Scram_Cricket-drinkscore"
+msgstr "Drink at this score (cutthroat only)"
+
+msgid "Scram_Cricket-Teaming"
+msgstr "Team Mode (4 players only)"
+
+msgid "Scram_Cricket-optionteamscore"
+msgstr "Mark teammate with same marks"
+
+msgid "Cricket-optionteamscore"
+msgstr "Mark teammate with same marks"
+
+msgid "Scram_Cricket-optioncutthroat"
+msgstr "Cutthroat Mode"
+
+msgid "Scram_Cricket-optionscram"
+msgstr "Scram Mode"
+
+msgid "Ho_One-league"
+msgstr "League Play! (Enables freeze mode and handicap, 4 players only!)"
+
+msgid "Cricket-optionhandicap"
+msgstr "Handicap Option!"
+
+msgid "this-game-stats"
+msgstr "Hi Score for this game"
+
+msgid "local-db-stats"
+msgstr "Your position in global Hi-Score table"
+
+msgid "ranking"
+msgstr "Ranking"
+
+msgid "Points Per Dart"
+msgstr "Points Per Dart"
+
+msgid "Points Per Round"
+msgstr "Points Per Round"
+
+msgid "Score"
+msgstr "Score"
+
+msgid "Hits per round"
+msgstr "Hits per round"
+
+msgid "GiveOut"
+msgstr "Give Out"
+
+msgid "Reached Score"
+msgstr "Reached Score"
+
+msgid "Hits"
+msgstr "Hits"

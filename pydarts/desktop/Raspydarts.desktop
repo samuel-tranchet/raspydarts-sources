@@ -1,0 +1,9 @@
+[Desktop Entry]
+[Desktop Entry]
+Version=3.3.2
+Comment=Raspydarts
+Terminal=false
+Name=Raspydarts
+Exec=/pydarts/RaspyDarts.sh
+Type=Application
+Icon=/pydarts/images/icon.png

@@ -1,0 +1,17 @@
+For board builders :
+-------------------
+1-Never use % as a key/value config in Arduino/pyDarts : in configparser python package (python3 only), the % symbol cannot be used as a parameter. So it is simply impossible to use it in your Arduino config. See http://bugs.python.org/issue26872
+
+Strange behaviour of other software:
+-------------------
+1-Some antispyware software may put your config folder somewhere else than the place it should be : something like "$HOME\AppData\Roaming\SPB_16.6.pydarts" or similar. (Reported by Diego2)
+
+Coming from older versions :
+-------------------
+1-If you get the error : 'module' has no attribute 'getdefaultlocale' : remove the 'locale' folder in your pydarts folder (not the "locales" with ending "s" but the 'locale' one which is deprecated)
+
+Dev notes :
+-------------------
+1-Don't use "pygame.font.Font(None,x,y)" if you want any pyGame project to be compiled. None, which would be eventually the way to use standard system font will cause compiled project to crash
+
+

@@ -1,0 +1,1 @@
+sudo msgfmt -o /pydarts/locales/fr_FR/LC_MESSAGES/pydarts.mo /pydarts/locales/fr_FR/LC_MESSAGES/pydarts.po

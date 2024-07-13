@@ -1,0 +1,23 @@
+Améliorations :
+    #289 : Mémorisation de la position dans les menus
+    #288 : Revue écran des scores pour le High Score option Mort Subite
+    #287 : Améliorations / correctifs by Manu
+    #286 : Ajout du paramétrage pour les cartes de Julien / Pascal / MM Ws
+    #284 : Revue navigation menu "Choix des joueurs"
+    #283 : Relance du paramétrage en cas d'appui sur Escape (2 fois maxi)
+    #282 : Correctif animation leds "Simone" (merci Jean-Paul Francis)
+    #281 : Positionner le focus sur le joueur fraichement ajouté (merci Francis)
+    #280 : Lecture du segment touché dans "Test cible"
+    #279 : Suppression du paramètre solo pour plus de lisibilité
+    #278 : Nouveau jeu : Le jeu de l'oie (MERCI à Eric Heuschen)
+    #277 : Amélioration visuelles (Rectangles aux coins arrondis)
+    #276 : Impossibilité de débuter la saisie d'un nombre par un 0
+    #275 : Utilisation d'un curseur au lieu d'une zone de saisie pour certains paramètres
+    #273 : Optimisation des menus "Personnalisation" et "Jeux favoris"
+
+Corrections de bugs :
+    #285 : Plantage dans l'écran "Jeux favoris"
+    #274 : Morpion : Régression sur les boucliers
+
+Autres :
+         : Nettoyage de code

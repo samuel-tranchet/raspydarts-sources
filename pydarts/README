@@ -1,0 +1,17 @@
+To create a game, you need (at least) :
+*******************************
+A file *.py in the "games" folder (Use the sample_game to understand game file structure).
+
+Things to know when you want to create a game:
+*********************************************************
+You can extend the basic options of a player with a subclass with a reference to "CPlayer" MasterClass (See sample)
+Game options can be "Boolean" or "Numeric" options.
+Use the return code to inform the main game what's happening in your game :
+Return Codes : 1 - Player has no more darts to throw (next player), but has played (=/=return code  4)
+               2 - The game is over - nobody win or game interrupted
+               3 - There is a winner (id of winner is returned in "objGame.winner" var)
+               4 - The player will not play at all this round
+You'll probably need to use PreDartsChecks method, actions run before the player throw his darts.
+The PostDartsChecks method is the action done after each dart threw.
+EarlyPlayerButton is a method used to execute actions if the player put a dart out of the dart board and then pressed the player button
+GameStats and CheckRecord are optionnaly used to save Hi Scores and update them when a player reach one of them.
